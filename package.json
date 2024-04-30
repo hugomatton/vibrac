@@ -1,0 +1,14 @@
+{
+  "name": "vibrac",
+  "version": "1.0.0",
+  "description": "système de trading automatisé",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Hugo MATTON",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
